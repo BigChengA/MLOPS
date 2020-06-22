@@ -9,7 +9,7 @@ The lightweight PyTorch wrapper for ML researchers. Scale your models. Write les
 
 # Colab examples for Pytorch Lightning:
 
-[Minima Example](https://colab.research.google.com/drive/1jUWVAvcKDlsgxIS24TtBuD1YElsEz31E?usp=sharing)
+[Minima Example](https://colab.research.google.com/drive/111jY7gMwbZ-WvergRVm2q0E_wtDFQOXX?usp=sharing)
 
 [Colab Intro](https://colab.research.google.com/notebooks/intro.ipynb)
 
