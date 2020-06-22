@@ -8,7 +8,7 @@
 
 [Colab Intro](https://colab.research.google.com/notebooks/intro.ipynb)
 
-# Colab examples for Pytorch Lightning:
+# Online examples for Pytorch Lightning Running:
 
 [Minima Example](https://colab.research.google.com/drive/111jY7gMwbZ-WvergRVm2q0E_wtDFQOXX?usp=sharing)
 
